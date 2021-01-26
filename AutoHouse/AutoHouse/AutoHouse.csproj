@@ -1,0 +1,840 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1850D6F-6231-41D8-BFA7-2D1D766FDD03}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AutoHouse</RootNamespace>
+    <AssemblyName>AutoHouse</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\Installation\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6A3C226A8331CB9DF3D0F95C723CA53453F0889D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>AutoHouse_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.8.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.8.1\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.8.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.8.1\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.8.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.8.1\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.8.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.8.1\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.8.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.8.1\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\FirstFloor\Aquecimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Aquecimento.Designer.cs">
+      <DependentUpon>Aquecimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\AquecimentoGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\AquecimentoGeral.Designer.cs">
+      <DependentUpon>AquecimentoGeral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\AquecimentoGeralCozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\AquecimentoGeralCozinha.Designer.cs">
+      <DependentUpon>AquecimentoGeralCozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\AquecimentoCasadeBanho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\AquecimentoCasadeBanho.Designer.cs">
+      <DependentUpon>AquecimentoCasadeBanho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\AquecimentoGeralQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\AquecimentoGeralQuarto.Designer.cs">
+      <DependentUpon>AquecimentoGeralQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\CameraCozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\CameraCozinha.Designer.cs">
+      <DependentUpon>CameraCozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\CameraQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\CameraQuarto.Designer.cs">
+      <DependentUpon>CameraQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Garden\Cameras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Garden\Cameras.Designer.cs">
+      <DependentUpon>Cameras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\CameraSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\CameraSala.Designer.cs">
+      <DependentUpon>CameraSala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Casadebanho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Casadebanho.Designer.cs">
+      <DependentUpon>Casadebanho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\Casadebanhosegundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\Casadebanhosegundo.Designer.cs">
+      <DependentUpon>Casadebanhosegundo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Cozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Cozinha.Designer.cs">
+      <DependentUpon>Cozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Fogao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Fogao.Designer.cs">
+      <DependentUpon>Fogao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\LuzCasaDebanhoS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\LuzCasaDebanhoS.Designer.cs">
+      <DependentUpon>LuzCasaDebanhoS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\CasaDeBanhoKidFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\CasaDeBanhoKidFirst.Designer.cs">
+      <DependentUpon>CasaDeBanhoKidFirst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\CozinhaChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\CozinhaChild.Designer.cs">
+      <DependentUpon>CozinhaChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\FirstFloorChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\FirstFloorChild.Designer.cs">
+      <DependentUpon>FirstFloorChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzKidCozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzKidCozinha.Designer.cs">
+      <DependentUpon>LuzKidCozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzKidSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzKidSala.Designer.cs">
+      <DependentUpon>LuzKidSala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzWcFirstKid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\LuzWcFirstKid.Designer.cs">
+      <DependentUpon>LuzWcFirstKid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\FirstFloor\SalaChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\FirstFloor\SalaChild.Designer.cs">
+      <DependentUpon>SalaChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\Garden\gardenChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\Garden\gardenChild.Designer.cs">
+      <DependentUpon>gardenChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\Garden\LuzesChildGarden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\Garden\LuzesChildGarden.Designer.cs">
+      <DependentUpon>LuzesChildGarden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\SecondFloor\CasaDeBanhoKid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\SecondFloor\CasaDeBanhoKid.Designer.cs">
+      <DependentUpon>CasaDeBanhoKid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\SecondFloor\LuzKidSecond.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\SecondFloor\LuzKidSecond.Designer.cs">
+      <DependentUpon>LuzKidSecond.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\SecondFloor\LuzWcKid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\SecondFloor\LuzWcKid.Designer.cs">
+      <DependentUpon>LuzWcKid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\SecondFloor\QuartoKid.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\SecondFloor\QuartoKid.Designer.cs">
+      <DependentUpon>QuartoKid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\SecondFloor\SecondFloorChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\SecondFloor\SecondFloorChild.Designer.cs">
+      <DependentUpon>SecondFloorChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoUserNovo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoUserNovo.Designer.cs">
+      <DependentUpon>AquecimentoUserNovo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\CasadeBanhoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\CasadeBanhoUser.Designer.cs">
+      <DependentUpon>CasadeBanhoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\CozinhaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\CozinhaUser.Designer.cs">
+      <DependentUpon>CozinhaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\FirstFloorUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\FirstFloorUser.Designer.cs">
+      <DependentUpon>FirstFloorUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormState.cs" />
+    <Compile Include="Admin\FirstFloor\FirstFloor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\FirstFloor.Designer.cs">
+      <DependentUpon>FirstFloor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Forno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Forno.Designer.cs">
+      <DependentUpon>Forno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Frigorifico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Frigorifico.Designer.cs">
+      <DependentUpon>Frigorifico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginChild.Designer.cs">
+      <DependentUpon>LoginChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Garden\Garden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Garden\Garden.Designer.cs">
+      <DependentUpon>Garden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Luz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Luz.Designer.cs">
+      <DependentUpon>Luz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginAdmin.Designer.cs">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\LoginUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\LoginUser.Designer.cs">
+      <DependentUpon>LoginUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\LuzCasaDebanho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\LuzCasaDebanho.Designer.cs">
+      <DependentUpon>LuzCasaDebanho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\LuzCozinha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\LuzCozinha.Designer.cs">
+      <DependentUpon>LuzCozinha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Garden\LuzJardim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Garden\LuzJardim.Designer.cs">
+      <DependentUpon>LuzJardim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\LuzQuarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\LuzQuarto.Designer.cs">
+      <DependentUpon>LuzQuarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationAdmin.Designer.cs">
+      <DependentUpon>NotificationAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoGeralUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoGeralUser.Designer.cs">
+      <DependentUpon>AquecimentoGeralUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoGeralCozinhaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\AquecimentoGeralCozinhaUser.Designer.cs">
+      <DependentUpon>AquecimentoGeralCozinhaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\CamaraCozinhaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\CamaraCozinhaUser.Designer.cs">
+      <DependentUpon>CamaraCozinhaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\CamaraSalaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\CamaraSalaUser.Designer.cs">
+      <DependentUpon>CamaraSalaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\FogaoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\FogaoUser.Designer.cs">
+      <DependentUpon>FogaoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\SalaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\SalaUser.Designer.cs">
+      <DependentUpon>SalaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzCozinhaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzCozinhaUser.Designer.cs">
+      <DependentUpon>LuzCozinhaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzUser.Designer.cs">
+      <DependentUpon>LuzUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\FrigorificoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\FrigorificoUser.Designer.cs">
+      <DependentUpon>FrigorificoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\FornoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\FornoUser.Designer.cs">
+      <DependentUpon>FornoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzCasaDebanho1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\FirstFloor\LuzCasaDebanho1.Designer.cs">
+      <DependentUpon>LuzCasaDebanho1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\Garden\GardenUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Garden\GardenUser.Designer.cs">
+      <DependentUpon>GardenUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\Garden\CamarasUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Garden\CamarasUser.Designer.cs">
+      <DependentUpon>CamarasUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\Garden\LuzJardimUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Garden\LuzJardimUser.Designer.cs">
+      <DependentUpon>LuzJardimUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\Garden\RegaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\Garden\RegaUser.Designer.cs">
+      <DependentUpon>RegaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\MainDivisoesUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\MainDivisoesUser.Designer.cs">
+      <DependentUpon>MainDivisoesUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child\MainDivisoesChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child\MainDivisoesChild.Designer.cs">
+      <DependentUpon>MainDivisoesChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\NewUser.Designer.cs">
+      <DependentUpon>NewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp.Designer.cs">
+      <DependentUpon>PopUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\Quarto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\Quarto.Designer.cs">
+      <DependentUpon>Quarto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Garden\Rega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\Garden\Rega.Designer.cs">
+      <DependentUpon>Rega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Sala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FirstFloor\Sala.Designer.cs">
+      <DependentUpon>Sala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\SecondFloor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\SecondFloor\SecondFloor.Designer.cs">
+      <DependentUpon>SecondFloor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\MainDivisoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\MainDivisoes.Designer.cs">
+      <DependentUpon>MainDivisoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\AquecimentoCasadeBanhoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\AquecimentoCasadeBanhoUser.Designer.cs">
+      <DependentUpon>AquecimentoCasadeBanhoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\AquecimentoGeralQuartoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\AquecimentoGeralQuartoUser.Designer.cs">
+      <DependentUpon>AquecimentoGeralQuartoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\CamaraQuartoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\CamaraQuartoUser.Designer.cs">
+      <DependentUpon>CamaraQuartoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\CasadebanhosegundoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\CasadebanhosegundoUser.Designer.cs">
+      <DependentUpon>CasadebanhosegundoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\QuartoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\QuartoUser.Designer.cs">
+      <DependentUpon>QuartoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\LuzQuartoUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\LuzQuartoUser.Designer.cs">
+      <DependentUpon>LuzQuartoUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\LuzCasadeBanhoSUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\LuzCasadeBanhoSUser.Designer.cs">
+      <DependentUpon>LuzCasadeBanhoSUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\SecondFloor\SecondfloorUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\SecondFloor\SecondfloorUser.Designer.cs">
+      <DependentUpon>SecondfloorUser.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\FirstFloor\Aquecimento.resx">
+      <DependentUpon>Aquecimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\AquecimentoGeral.resx">
+      <DependentUpon>AquecimentoGeral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\AquecimentoGeralCozinha.resx">
+      <DependentUpon>AquecimentoGeralCozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\AquecimentoCasadeBanho.resx">
+      <DependentUpon>AquecimentoCasadeBanho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\AquecimentoGeralQuarto.resx">
+      <DependentUpon>AquecimentoGeralQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\CameraCozinha.resx">
+      <DependentUpon>CameraCozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\CameraQuarto.resx">
+      <DependentUpon>CameraQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Garden\Cameras.resx">
+      <DependentUpon>Cameras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\CameraSala.resx">
+      <DependentUpon>CameraSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Casadebanho.resx">
+      <DependentUpon>Casadebanho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Cozinha.resx">
+      <DependentUpon>Cozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\FirstFloor.resx">
+      <DependentUpon>FirstFloor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Fogao.resx">
+      <DependentUpon>Fogao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Forno.resx">
+      <DependentUpon>Forno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Frigorifico.resx">
+      <DependentUpon>Frigorifico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\Casadebanhosegundo.resx">
+      <DependentUpon>Casadebanhosegundo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\LuzCasaDebanhoS.resx">
+      <DependentUpon>LuzCasaDebanhoS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\CasaDeBanhoKidFirst.resx">
+      <DependentUpon>CasaDeBanhoKidFirst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\CozinhaChild.resx">
+      <DependentUpon>CozinhaChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\FirstFloorChild.resx">
+      <DependentUpon>FirstFloorChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\LuzKidCozinha.resx">
+      <DependentUpon>LuzKidCozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\LuzKidSala.resx">
+      <DependentUpon>LuzKidSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\LuzWcFirstKid.resx">
+      <DependentUpon>LuzWcFirstKid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\FirstFloor\SalaChild.resx">
+      <DependentUpon>SalaChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\Garden\gardenChild.resx">
+      <DependentUpon>gardenChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\Garden\LuzesChildGarden.resx">
+      <DependentUpon>LuzesChildGarden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\SecondFloor\CasaDeBanhoKid.resx">
+      <DependentUpon>CasaDeBanhoKid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\SecondFloor\LuzKidSecond.resx">
+      <DependentUpon>LuzKidSecond.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\SecondFloor\LuzWcKid.resx">
+      <DependentUpon>LuzWcKid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\SecondFloor\QuartoKid.resx">
+      <DependentUpon>QuartoKid.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\SecondFloor\SecondFloorChild.resx">
+      <DependentUpon>SecondFloorChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\AquecimentoGeralCozinhaUser.resx">
+      <DependentUpon>AquecimentoGeralCozinhaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\AquecimentoGeralUser.resx">
+      <DependentUpon>AquecimentoGeralUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\AquecimentoUserNovo.resx">
+      <DependentUpon>AquecimentoUserNovo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\CamaraCozinhaUser.resx">
+      <DependentUpon>CamaraCozinhaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\CamaraSalaUser.resx">
+      <DependentUpon>CamaraSalaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\CasadeBanhoUser.resx">
+      <DependentUpon>CasadeBanhoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\CozinhaUser.resx">
+      <DependentUpon>CozinhaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\FirstFloorUser.resx">
+      <DependentUpon>FirstFloorUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginChild.resx">
+      <DependentUpon>LoginChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Garden\Garden.resx">
+      <DependentUpon>Garden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Luz.resx">
+      <DependentUpon>Luz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginAdmin.resx">
+      <DependentUpon>LoginAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\LoginUser.resx">
+      <DependentUpon>LoginUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\LuzCasaDebanho.resx">
+      <DependentUpon>LuzCasaDebanho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\LuzCozinha.resx">
+      <DependentUpon>LuzCozinha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Garden\LuzJardim.resx">
+      <DependentUpon>LuzJardim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\LuzQuarto.resx">
+      <DependentUpon>LuzQuarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificationAdmin.resx">
+      <DependentUpon>NotificationAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\FogaoUser.resx">
+      <DependentUpon>FogaoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\FornoUser.resx">
+      <DependentUpon>FornoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\FrigorificoUser.resx">
+      <DependentUpon>FrigorificoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\LuzCasaDebanho1.resx">
+      <DependentUpon>LuzCasaDebanho1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\LuzCozinhaUser.resx">
+      <DependentUpon>LuzCozinhaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\LuzUser.resx">
+      <DependentUpon>LuzUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\FirstFloor\SalaUser.resx">
+      <DependentUpon>SalaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Garden\CamarasUser.resx">
+      <DependentUpon>CamarasUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Garden\GardenUser.resx">
+      <DependentUpon>GardenUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Garden\LuzJardimUser.resx">
+      <DependentUpon>LuzJardimUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\Garden\RegaUser.resx">
+      <DependentUpon>RegaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\MainDivisoesUser.resx">
+      <DependentUpon>MainDivisoesUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child\MainDivisoesChild.resx">
+      <DependentUpon>MainDivisoesChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\NewUser.resx">
+      <DependentUpon>NewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp.resx">
+      <DependentUpon>PopUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\Quarto.resx">
+      <DependentUpon>Quarto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\Garden\Rega.resx">
+      <DependentUpon>Rega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FirstFloor\Sala.resx">
+      <DependentUpon>Sala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\SecondFloor\SecondFloor.resx">
+      <DependentUpon>SecondFloor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\MainDivisoes.resx">
+      <DependentUpon>MainDivisoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\AquecimentoCasadeBanhoUser.resx">
+      <DependentUpon>AquecimentoCasadeBanhoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\AquecimentoGeralQuartoUser.resx">
+      <DependentUpon>AquecimentoGeralQuartoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\CamaraQuartoUser.resx">
+      <DependentUpon>CamaraQuartoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\CasadebanhosegundoUser.resx">
+      <DependentUpon>CasadebanhosegundoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\LuzCasadeBanhoSUser.resx">
+      <DependentUpon>LuzCasadeBanhoSUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\LuzQuartoUser.resx">
+      <DependentUpon>LuzQuartoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\QuartoUser.resx">
+      <DependentUpon>QuartoUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\SecondFloor\SecondfloorUser.resx">
+      <DependentUpon>SecondfloorUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AutoHouse_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

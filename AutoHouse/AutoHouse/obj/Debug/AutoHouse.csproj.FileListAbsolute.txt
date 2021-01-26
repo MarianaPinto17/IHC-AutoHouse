@@ -1,0 +1,279 @@
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe.config
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.pdb
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csprojAssemblyReference.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloor.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Garden.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.SecondFloor.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoes.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Properties.Resources.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Users.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.GenerateResource.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.pdb
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe.config
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.pdb
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Aquecimento.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanho.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloor.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Garden.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Luz.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginAdmin.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.PopUp.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.SecondFloor.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoes.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Properties.Resources.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Users.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.GenerateResource.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CopyComplete
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.exe
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.pdb
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csprojAssemblyReference.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cameras.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Quarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzJardim.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Rega.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeral.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Sala.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NewUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraSala.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Fogao.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Forno.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Frigorifico.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NotificationAdmin.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanhosegundo.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanhoS.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloorUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CasadeBanhoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CozinhaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho1.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe.config
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.pdb
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Aquecimento.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeral.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralCozinha.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralQuarto.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraCozinha.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraQuarto.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cameras.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraSala.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanho.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cozinha.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloor.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Fogao.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Forno.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Frigorifico.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanhosegundo.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanhoS.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.CasaDeBanhoKidFirst.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.CozinhaChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloorChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzKidCozinha.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzKidSala.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzWcFirstKid.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.SalaChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.gardenChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.Garden.LuzesChildGarden.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.CasaDeBanhoKid.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.LuzKidSecond.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.LuzWcKid.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.QuartoKid.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloorChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoGeralCozinhaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoGeralUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoUserNovo.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.CamaraCozinhaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.CamaraSalaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CasadeBanhoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CozinhaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloorUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Garden.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Luz.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginAdmin.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCozinha.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzJardim.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzQuarto.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NotificationAdmin.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FogaoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FornoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FrigorificoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho1.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.LuzCozinhaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.LuzUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.SalaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.CamarasUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.GardenUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.LuzJardimUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.RegaUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesChild.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NewUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.PopUp.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Quarto.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Rega.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Sala.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.SecondFloor.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoes.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Properties.Resources.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Users.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.AquecimentoCasadeBanhoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.AquecimentoGeralQuartoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.CamaraQuartoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.CasadebanhosegundoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.LuzCasadeBanhoS.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.LuzQuartoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.QuartoUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFlor.SecondfloorUser.resources
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CopyComplete
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.exe
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.pdb
+C:\Users\gusta\Documents\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csprojAssemblyReference.cache
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Aquecimento.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeral.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.AquecimentoGeralQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cameras.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CameraSala.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanho.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Cozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Fogao.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Forno.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Frigorifico.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Casadebanhosegundo.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanhoS.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.CasaDeBanhoKidFirst.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.CozinhaChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloorChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzKidCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzKidSala.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.LuzWcFirstKid.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.FirstFloor.SalaChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.gardenChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.Garden.LuzesChildGarden.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.CasaDeBanhoKid.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.LuzKidSecond.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.LuzWcKid.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloor.QuartoKid.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Child.SecondFloorChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoGeralCozinhaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoGeralUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.AquecimentoUserNovo.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.CamaraCozinhaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.CamaraSalaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CasadeBanhoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.CozinhaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.FirstFloorUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Luz.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginAdmin.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LoginUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCozinha.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzJardim.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzQuarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NotificationAdmin.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FogaoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FornoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.FrigorificoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.LuzCasaDebanho1.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.LuzCozinhaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.LuzUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.FirstFloor.SalaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.CamarasUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.GardenUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.LuzJardimUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.Garden.RegaUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.MainDivisoesChild.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.NewUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.PopUp.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Quarto.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Rega.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.Sala.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.AquecimentoCasadeBanhoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.AquecimentoGeralQuartoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.CamaraQuartoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.CasadebanhosegundoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.LuzCasadeBanhoS.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFloor.LuzQuartoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.QuartoUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.User.SecondFlor.SecondfloorUser.resources
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.csproj.CopyComplete
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.exe.manifest
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\bin\Debug\AutoHouse.application
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.exe.manifest
+C:\Users\Mariana Pinto\OneDrive - Universidade de Aveiro\UNI\3ano\2Semestre\IHC\AutoHouse\AutoHouse\AutoHouse\obj\Debug\AutoHouse.application

@@ -1,6 +1,7 @@
 # IHC-AutoHouse
 
-Project of IHC
+AUTOHOUSE - API that helps families control numerous electrical and technological systems in their houses, remotely, with [@GustavoInacio98](https://github.com/GustavoInacio98/), **GRADE: 15/20**
+
 
 AutoHouse folder contains the source code of our APP.
 
